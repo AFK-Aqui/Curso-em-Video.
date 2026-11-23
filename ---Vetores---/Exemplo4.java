@@ -1,9 +1,18 @@
+import java.util.Arrays;
+
+
 public class Exemplo4 {
     public static void main(String[] args) {
 
     // ----------- Vetores: Aula 04. ------------- //
 
         int num[] = {3, 5, 1, 8, 9};
+
+        // !!!!!!!!!!!! NOVA CLASSE. !!!!!!!!!!!!! //
+
+        Arrays.sort(num);
+
+        // A classe "Arrays" coloca os valores dos veotres em ordem.
 
         for (int valor: num) { 
             
