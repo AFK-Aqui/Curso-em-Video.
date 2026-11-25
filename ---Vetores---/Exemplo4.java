@@ -12,7 +12,7 @@ public class Exemplo4 {
 
         Arrays.sort(num);
 
-        // A classe "Arrays" coloca os valores dos veotres em ordem.
+        // A classe "Arrays" coloca os valores dos veotres em ORDEM.
 
         for (int valor: num) { 
             

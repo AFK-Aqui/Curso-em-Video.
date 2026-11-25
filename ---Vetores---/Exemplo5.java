@@ -17,7 +17,7 @@ public class Exemplo5 {
 
     /* ------------------------------------------------------
        O método "binarySearch" vai procurar o valor desejado
-       dentro do vetor escolhido tbm. 
+       dentro do vetor escolhido. 
     --------------------------------------------------------- */
 
     System.out.println("Encontrei o valor na posição " + p);
